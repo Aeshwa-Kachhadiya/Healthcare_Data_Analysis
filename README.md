@@ -64,7 +64,7 @@ Healthcare providers need data-driven insights to:
 ## 🔗 Project Files
 - [Excel Analysis Workbook](#)
 - [Project Methodology Guide](#)
-- [Visual Dashboard](#)
+
 
 ## 🎓 Learning Outcomes
 - Applied statistical methods to real-world healthcare data
@@ -74,4 +74,4 @@ Healthcare providers need data-driven insights to:
 
 ---
 
-**Connect with me:** [LinkedIn](#) | [Portfolio](#) | [Email](#)
+
