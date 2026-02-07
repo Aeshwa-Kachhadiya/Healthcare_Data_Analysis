@@ -130,7 +130,7 @@ Healthcare providers need data-driven insights to:
 **Aeshwa Kachhadiya**
 - 📧 Email: aeshwakachhadiya129@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aeshwakachhadiya](https://linkedin.com/in/aeshwakachhadiya)
-- 🌐 Portfolio: [Your Portfolio Link]
+- 🌐 Portfolio: [aeshwa-kachhadiya.github.io](https://aeshwa-kachhadiya.github.io/)
 
 ---
 
