@@ -62,8 +62,8 @@ Healthcare providers need data-driven insights to:
 - Comprehensive project documentation and methodology guide
 
 ## 🔗 Project Files
-- [Excel Analysis Workbook](Healthcare Data Analysis and Insights.xlsx)
-- [Project Methodology Guide](Methodology_Guide.pdf)
+- [Excel Analysis Workbook](Healthcare%20Data%20Analysis%20and%20Insights.xlsx)
+- [Project Methodology Guide](README.md)
 
 
 ## 🎓 Learning Outcomes
